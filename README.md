@@ -1,4 +1,4 @@
-# SQL-Databse-qurey-using-PaLM-2-API-and-LangChain
+# SQL-Database-qurey-using-PaLM-2-API-and-LangChain
 
 This Project is part of my zomato GenAI application work. It is a reimplimentation of Codebasic's LLM project.
 
